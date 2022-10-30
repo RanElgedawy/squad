@@ -1,5 +1,6 @@
 ﻿ID,Context,Question,AnswerText
 1,1,What is the name of the detective?,Pinkerton
+30,1,How was the perpetrator described?,one man who could bring out the robbery
 21,1,What is the name of the perpetrator?,Pinkerton
 2,1,Who is the perpetrator?,Pinkerton
 36,1,Describe the perpetrator,one man who could bring out the robbery
@@ -24,7 +25,6 @@
 17,5,What is the resolution of the crime?,"I first stole ten thousand dollars, which was brought to my office on Sunday, by the messenger from Atlanta. I had no right to the package, and should have immediately re-billed it and sent it off. I was certain that no one knew that it had been missent. I never thought I should be guilty of theft till the time"
 34,5,What are the details of the crime?,"I first stole ten thousand dollars, which was brought to my office on Sunday, by the messenger from Atlanta. I had no right to the package, and should have immediately re-billed it and sent it off. I was certain that no one knew that it had been missent. I never thought I should be guilty of theft till the time"
 18,5,How did the antagonist stole the money?,"I first stole ten thousand dollars, which was brought to my office on Sunday, by the messenger from Atlanta. I had no right to the package, and should have immediately re-billed it and sent it off. I was certain that no one knew that it had been missent. I never thought I should be guilty of theft till the time"
-30,1,How was the perpetrator described?,one man who could bring out the robbery
 3,1,How was the detective first described in the novel?,one man who could bring out the robbery
 6,2,When did the antagonist started working for the Montgomery office?,in 1858
 33,3,How much money was stolen?,ten thousand dollars in bills 
